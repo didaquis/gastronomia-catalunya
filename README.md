@@ -1,4 +1,4 @@
-# Gastronomía de Catalunya
+# Gastronomía de Catalunya 👨🏻‍🍳
 
 Gracias a la colaboración de diferentes círculos de amigos, y en especial a un buen amigo, he elaborado una lista de los elementos gastronómicos que más representan la cocina catalana y su cultura.
 
